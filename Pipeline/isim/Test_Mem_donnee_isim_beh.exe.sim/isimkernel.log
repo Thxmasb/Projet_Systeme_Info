@@ -1,0 +1,30 @@
+Command line:
+   Test_Mem_donnee_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  34959
+
+Fri Apr 16 14:54:27 2021
+
+
+ Elaboration Time: 0.01 sec
+
+ Current Memory Usage: 182.944 Meg
+
+ Total Signals          : 13
+ Total Nets             : 2075
+ Total Signal Drivers   : 7
+ Total Blocks           : 4
+ Total Primitive Blocks : 3
+ Total Processes        : 6
+ Total Traceable Variables  : 14
+ Total Scalar Nets and Variables : 2559
+Total Line Count : 14
+Total Line Count : 14
+
+ Total Simulation Time: 0.04 sec
+
+ Current Memory Usage: 258.445 Meg
+
+Fri Apr 16 14:54:54 2021
+

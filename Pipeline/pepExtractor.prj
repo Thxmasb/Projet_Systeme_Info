@@ -1,0 +1,5 @@
+work	"ALU.vhd"
+work	"BR.vhd"
+work	"Mem_donnee.vhd"
+work	"Mem_instructions.vhd"
+work	"Processeur.vhd"

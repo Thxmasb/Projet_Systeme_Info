@@ -1,0 +1,5 @@
+vhdl isim_temp "Mem_instructions.vhd"
+vhdl isim_temp "Mem_donnee.vhd"
+vhdl isim_temp "BR.vhd"
+vhdl isim_temp "ALU.vhd"
+vhdl isim_temp "Processeur.vhd"

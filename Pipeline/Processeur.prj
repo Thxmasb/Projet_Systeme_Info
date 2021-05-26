@@ -1,0 +1,5 @@
+vhdl work "Mem_instructions.vhd"
+vhdl work "Mem_donnee.vhd"
+vhdl work "BR.vhd"
+vhdl work "ALU.vhd"
+vhdl work "Processeur.vhd"

@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/ballotin/Projet_Syst_Info/Mem_instructions.xst" -ofn "/home/ballotin/Projet_Syst_Info/Mem_instructions.syr" 
